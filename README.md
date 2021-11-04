@@ -12,3 +12,4 @@ As of now, I consider this project complete. If I ever need to come back to prac
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<img src="shapes-ss.png" width='300'/>
